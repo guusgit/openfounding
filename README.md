@@ -38,7 +38,7 @@ What kind of data would we need ?
 # Discussion
 What is not said here is that investing to solve world hunger is necessary but won't stop the bleeding immediatly. Some quick answer should be considerate. There is no magic food as there is no magic money (hello there President Macron), so we have to look at what is around us right now.
   
-Another point, is that us, westerners, have to be prepared to make some sacrifice regarding our own comfort. Let's say that the major hunger issue is only in Africa (which is not the case). We should reroute the exportation toward western countries to inner african countries. Doing so, they would loose exportation money (that's one part where your money get involve Elon), and us, will loose some exotic products on our markets.  
+Another point, is that us, westerners, have to be prepared to make some sacrifice regarding our own comfort. Let's say that the major hunger issue is only in Africa (which is not the case). We should reroute the exportation toward western countries to inner african countries. Doing so, they would loose exportation money (that's one part where your money get involved, Elon), and us, will loose some exotic products on our markets.  
 But let's be honest, is that that important to have banana all year long in our supermarket ? I guess not, maybe it would be better to "give" it to the ones who are starving.  
 
   
