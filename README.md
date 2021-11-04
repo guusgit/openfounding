@@ -13,9 +13,9 @@ So, what am I talking about ?
   
 A full front page, displaying the huge amount of initial founding (6B$), and some pipe to where it is supposed to be spend.
 
-(((( 6 000 000 000 $ ))))
-  |       |             |
-Crop    peon training   harvest
+(((( 6 000 000 000 $ ))))  
+  |       |             |  
+Crop    peon training   harvest  
 
   
 idk if that makes sense like that, but still, I want to display a cashflow. Where to spend it, how much, if one shoot is enough and so on.
