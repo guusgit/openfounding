@@ -1,5 +1,5 @@
 # openfounding
-try &amp; fail project to make Elon Musk use its money to solve world hanger. 
+try &amp; fail project to make Elon Musk use his money to solve world hanger. 
 
 # Hello There
 This project's purpose is to propose an open source visualisation for an important matter : how to solve world's hunger issue, with money.  
@@ -7,7 +7,7 @@ This project's purpose is to propose an open source visualisation for an importa
 Doing this on my free time, with no expected results. let's have fun.
 
 # Main idea
-It would be nice to have a very simple project. I'm not even sure it would require a database.  
+It would be nice to have a very simple project.
   
 So, what am I talking about ?
   
@@ -24,4 +24,21 @@ Saying that induce a simple more or less static page. pretty cheap to be done. B
   
 So, what about a meta model ? or a simple small mongo DB ... frack, idk yet.
   
-in addition, i'm not on my freetime right now. We'll talk later.
+
+# Quick'n'Dirty specification
+Front : Any graphic framework able to display charts and pipe (i want some fucking pipes to modelize the cashflow !)  
+Back : Ultra light program. Maybe a spring thing, we would need few class, mainly to access the database  
+DB : dirty mongo  
+
+What kind of data would we need ?  
+- investment : cash amount on a specific date for a specific purpose to improve the situation. Input cash amount, output result
+- quick answer : almost the same but no feedback expected. The quick answer is to buy food somewhere to put it somewhere. Period. Input cash amount, output people surviving.
+- ???
+  
+# Discussion
+What is not said here is that investing to solve world hunger is necessary but won't stop the bleeding immediatly. Some quick answer should be considerate. There is no magic food as there is no magic money (hello there President Macron), so we have to look at what is around us right now.
+  
+Another point, is that us, westerners, have to be prepared to make some sacrifice regarding our own comfort. Let's say that the major hunger issue is only in Africa (which is not the case). We should reroute the exportation toward western countries to inner african countries. Doing so, they would loose exportation money (that's one part where your money get involve Elon), and us, will loose some exotic products on our markets.  
+But let's be honest, is that that important to have banana all year long in our supermarket ? I guess not, maybe it would be better to "give" it to the ones who are starving.  
+
+  
