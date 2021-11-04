@@ -42,3 +42,11 @@ Another point, is that us, westerners, have to be prepared to make some sacrific
 But let's be honest, is that that important to have banana all year long in our supermarket ? I guess not, maybe it would be better to "give" it to the ones who are starving.  
 
   
+https://www.wfp.org/publications/hunger-map-2021
+  
+One funny thing. Really funny. So funny that I think I'm gonna cry.   
+The Congo is in the top tier. I still can buy banana from there in my supermarket EVERYDAY. Why won't they keep it for their own population. FOR MONEYYYYYY
+Madagascar is also in the top tiers. Well, they make TONS of shrimps. Only exportated, too expension for the Malgash people. So they are starting to generate money for some. Money again.
+  
+  
+Having that said, I'm pretty sure money has nothing to do with world hunger. Corruption does.
